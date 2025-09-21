@@ -62,15 +62,15 @@ const data = {
       items: [
         {
           title: "History",
-          url: "#",
+          url: "/dashboard/history",
         },
         {
           title: "Starred",
-          url: "#",
+          url: "/dashboard/starred",
         },
         {
           title: "Settings",
-          url: "#",
+          url: "/dashboard/settings",
         },
       ],
     },
